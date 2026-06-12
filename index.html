@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Nocturne — an interactive constellation timeline of art history with walkable 3D galleries. All data sourced from Wikipedia, Wikidata, and Wikimedia Commons." />
+    <title>Nocturne · A Timeline Museum of Art History</title>
+    <link rel="icon" href="data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&gt;&lt;circle cx='50' cy='50' r='14' fill='%23d8b86a'/&gt;&lt;circle cx='50' cy='50' r='30' fill='none' stroke='%23d8b86a' stroke-opacity='0.35' stroke-width='3'/&gt;&lt;/svg&gt;" />
+    <!-- Typefaces are self-hosted (see src/styles/fonts.css) — no external font CDN. -->
+    <style>
+      /* Paint the void before the bundle arrives, so there is never a white flash. */
+      html, body { background: #07080c; margin: 0; }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

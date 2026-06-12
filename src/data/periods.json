@@ -1,0 +1,192 @@
+[
+  {
+    "id": "medieval-gothic",
+    "name": "Medieval & Gothic",
+    "start": 1200,
+    "end": 1400,
+    "lane": 0,
+    "wikiTitle": "Gothic art",
+    "summary": "Sacred art of the late Middle Ages — gold grounds, altarpieces, and the first steps toward naturalism.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gothic_art"
+  },
+  {
+    "id": "early-renaissance",
+    "name": "Early Renaissance",
+    "start": 1400,
+    "end": 1495,
+    "lane": -40,
+    "wikiTitle": "Italian Renaissance painting",
+    "summary": "Florence rediscovers perspective, anatomy, and antiquity.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Italian_Renaissance_painting"
+  },
+  {
+    "id": "northern-renaissance",
+    "name": "Northern Renaissance",
+    "start": 1430,
+    "end": 1580,
+    "lane": 55,
+    "wikiTitle": "Northern Renaissance",
+    "summary": "Oil paint, minute realism, and print culture north of the Alps.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Northern_Renaissance"
+  },
+  {
+    "id": "italian-renaissance",
+    "name": "Italian Renaissance",
+    "start": 1495,
+    "end": 1530,
+    "lane": -5,
+    "wikiTitle": "High Renaissance",
+    "summary": "Leonardo, Michelangelo, and Raphael define the classical ideal.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/High_Renaissance"
+  },
+  {
+    "id": "mannerism",
+    "name": "Mannerism",
+    "start": 1520,
+    "end": 1600,
+    "lane": -60,
+    "wikiTitle": "Mannerism",
+    "summary": "Elegant, artificial, and strange — art after Raphael’s perfection.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mannerism"
+  },
+  {
+    "id": "baroque",
+    "name": "Baroque",
+    "start": 1600,
+    "end": 1720,
+    "lane": 5,
+    "wikiTitle": "Baroque painting",
+    "summary": "Drama, chiaroscuro, and movement in the age of courts and counter-reformation.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baroque_painting"
+  },
+  {
+    "id": "rococo",
+    "name": "Rococo",
+    "start": 1720,
+    "end": 1780,
+    "lane": 60,
+    "wikiTitle": "Rococo",
+    "summary": "Lightness, pleasure, and ornament in eighteenth-century France.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rococo"
+  },
+  {
+    "id": "neoclassicism",
+    "name": "Neoclassicism",
+    "start": 1760,
+    "end": 1830,
+    "lane": -50,
+    "wikiTitle": "Neoclassicism",
+    "summary": "A return to antique order, line, and civic virtue.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Neoclassicism"
+  },
+  {
+    "id": "romanticism",
+    "name": "Romanticism",
+    "start": 1790,
+    "end": 1850,
+    "lane": 30,
+    "wikiTitle": "Romanticism",
+    "summary": "Emotion, the sublime, and the individual against the storm.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Romanticism"
+  },
+  {
+    "id": "realism",
+    "name": "Realism",
+    "start": 1840,
+    "end": 1880,
+    "lane": -15,
+    "wikiTitle": "Realism (art movement)",
+    "summary": "Ordinary life painted without idealization.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Realism_(art_movement)"
+  },
+  {
+    "id": "impressionism",
+    "name": "Impressionism",
+    "start": 1865,
+    "end": 1895,
+    "lane": 75,
+    "wikiTitle": "Impressionism",
+    "summary": "Open-air painting of fleeting light and modern leisure.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Impressionism"
+  },
+  {
+    "id": "symbolism",
+    "name": "Symbolism",
+    "start": 1880,
+    "end": 1910,
+    "lane": -75,
+    "wikiTitle": "Symbolism (arts)",
+    "summary": "Dreams, myth, and the inner world against materialism.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Symbolism_(arts)"
+  },
+  {
+    "id": "post-impressionism",
+    "name": "Post-Impressionism",
+    "start": 1886,
+    "end": 1910,
+    "lane": 20,
+    "wikiTitle": "Post-Impressionism",
+    "summary": "Structure, symbol, and expressive color after Impressionism.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Post-Impressionism"
+  },
+  {
+    "id": "expressionism",
+    "name": "Expressionism",
+    "start": 1905,
+    "end": 1933,
+    "lane": 110,
+    "wikiTitle": "Expressionism",
+    "summary": "Inner feeling distorts color and form.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Expressionism"
+  },
+  {
+    "id": "cubism",
+    "name": "Cubism",
+    "start": 1907,
+    "end": 1922,
+    "lane": -45,
+    "wikiTitle": "Cubism",
+    "summary": "Objects shattered into facets and reassembled.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cubism"
+  },
+  {
+    "id": "surrealism",
+    "name": "Surrealism",
+    "start": 1924,
+    "end": 1955,
+    "lane": 45,
+    "wikiTitle": "Surrealism",
+    "summary": "The unconscious made visible.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Surrealism"
+  },
+  {
+    "id": "abstract-expressionism",
+    "name": "Abstract Expressionism",
+    "start": 1943,
+    "end": 1965,
+    "lane": -120,
+    "wikiTitle": "Abstract expressionism",
+    "summary": "New York’s gestural and color-field abstraction after the war.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abstract_expressionism"
+  },
+  {
+    "id": "pop-art",
+    "name": "Pop Art",
+    "start": 1955,
+    "end": 1975,
+    "lane": -15,
+    "wikiTitle": "Pop art",
+    "summary": "Mass media and consumer culture enter the museum.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pop_art"
+  },
+  {
+    "id": "contemporary",
+    "name": "Contemporary Art",
+    "start": 1975,
+    "end": 2026,
+    "lane": -60,
+    "wikiTitle": "Contemporary art",
+    "summary": "Global, plural, and conceptual — art since the late twentieth century.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Contemporary_art"
+  }
+]

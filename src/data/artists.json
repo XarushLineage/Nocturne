@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "giotto",
+    "name": "Giotto",
+    "wikiTitle": "Giotto",
+    "periodId": "medieval-gothic",
+    "born": 1267,
+    "died": 1337,
+    "significance": "Broke from Byzantine convention toward naturalism; his Scrovegni Chapel frescoes prefigured the Renaissance.",
+    "qid": "Q7814",
+    "description": "Italian painter and architect (c. 1267–1337)",
+    "bio": "Giotto di Bondone, known mononymously as Giotto, was an Italian painter and architect from Florence during the Late Middle Ages. He worked during the Gothic and Proto-Renaissance period. Giotto's contemporary, the banker and chronicler Giovanni Villani, wrote that Giotto was \"the most sovereign master of painting in his time, who drew all his figures and their postures according to nature\" and of his publicly recognized \"talent and excellence\". Giorgio Vasari described Giotto as making a decisive break from the prevalent Byzantine style and as initiating \"the great art of painting as we know it today, introducing the technique of drawing accurately from life, which had been neglected for more than two hundred years\".",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Giotto%2C_Santa_Maria_Novella.jpg/500px-Giotto%2C_Santa_Maria_Novella.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Giotto%2C_Santa_Maria_Novella.jpg/330px-Giotto%2C_Santa_Maria_Novella.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Giotto",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "cimabue",
+    "name": "Cimabue",
+    "wikiTitle": "Cimabue",
+    "periodId": "medieval-gothic",
+    "born": 1240,
+    "died": 1302,
+    "significance": "Among the last great painters in the Byzantine manner and an early mover toward naturalism; traditionally Giotto’s teacher.",
+    "qid": "Q15790",
+    "description": "Italian artist (1240–1302)",
+    "bio": "Giovanni Cimabue, also known as Cenni di Pepo or Cenni di Pepi, was an Italian painter and designer of mosaics from Florence.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/CimabueSantaMariaNovella.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/ce/CimabueSantaMariaNovella.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cimabue",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "duccio",
+    "name": "Duccio",
+    "wikiTitle": "Duccio",
+    "periodId": "medieval-gothic",
+    "born": 1255,
+    "died": 1319,
+    "significance": "Founder of the Sienese school; his Maestà altarpiece is a landmark of late medieval painting.",
+    "qid": "Q15792",
+    "description": "13th- and 14th-century Italian painter",
+    "bio": "Duccio di Buoninsegna, commonly known as just Duccio, was an Italian painter active in Siena, Tuscany, in the late 13th and early 14th century. He was hired throughout his life to complete many important works in government and religious buildings around Italy. Duccio is considered one of the greatest Italian painters of the Middle Ages, and is credited with creating the painting styles of Trecento Gothic style and the Sienese school.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Duccio_di_Buoninsegna%2C_Rucellai_Madonna%2C_after_1285%2C_Uffiz.jpg/500px-Duccio_di_Buoninsegna%2C_Rucellai_Madonna%2C_after_1285%2C_Uffiz.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Duccio_di_Buoninsegna%2C_Rucellai_Madonna%2C_after_1285%2C_Uffiz.jpg/330px-Duccio_di_Buoninsegna%2C_Rucellai_Madonna%2C_after_1285%2C_Uffiz.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Duccio",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "masaccio",
+    "name": "Masaccio",
+    "wikiTitle": "Masaccio",
+    "periodId": "early-renaissance",
+    "born": 1401,
+    "died": 1428,
+    "significance": "First great painter of the Quattrocento; pioneered linear perspective and naturalistic light in fresco.",
+    "qid": "Q5811",
+    "description": "15th-century Italian Renaissance painter",
+    "bio": "Masaccio, born Tommaso di Ser Giovanni di Simone, was a Florentine artist who is regarded as the first great Italian painter of the Quattrocento period of the Italian Renaissance. According to Vasari, Masaccio was the best painter of his generation because of his skill at imitating nature, recreating lifelike figures and movements as well as a convincing sense of three-dimensionality. He employed nudes and foreshortenings in his figures. This had seldom been done before him.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Masaccio_Self_Portrait.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/96/Masaccio_Self_Portrait.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Masaccio",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "fra-angelico",
+    "name": "Fra Angelico",
+    "wikiTitle": "Fra Angelico",
+    "periodId": "early-renaissance",
+    "born": 1395,
+    "died": 1455,
+    "significance": "Dominican friar whose San Marco frescoes united Gothic piety with Renaissance clarity.",
+    "qid": "Q5664",
+    "description": "Italian friar and painter (c. 1395 – 1455)",
+    "bio": "Fra Giovanni da Fiesole, known posthumously as Fra Angelico, was an Italian Dominican friar and painter active during the early Florentine Renaissance.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fra_Angelico_portrait.jpg/500px-Fra_Angelico_portrait.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fra_Angelico_portrait.jpg/330px-Fra_Angelico_portrait.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fra_Angelico",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "piero-della-francesca",
+    "name": "Piero della Francesca",
+    "wikiTitle": "Piero della Francesca",
+    "periodId": "early-renaissance",
+    "born": 1415,
+    "died": 1492,
+    "significance": "Mathematician-painter of serene geometry and cool, even light.",
+    "qid": "Q5822",
+    "description": "Italian painter, mathematician and geometer (c. 1414–1492)",
+    "bio": "Piero della Francesca was an Italian painter, mathematician and geometer of the Early Renaissance, nowadays chiefly appreciated for his art. His painting is characterized by its serene humanism, its use of geometric forms and perspective. His most famous work is the cycle of frescoes The History of the True Cross in the Basilica of San Francesco in the Tuscan town of Arezzo.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Delle_vite_de%27_pi%C3%B9_eccellenti_pittori%2C_scultori%2C_et_architetti_%281648%29_%2814799608033%29.jpg/500px-Delle_vite_de%27_pi%C3%B9_eccellenti_pittori%2C_scultori%2C_et_architetti_%281648%29_%2814799608033%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Delle_vite_de%27_pi%C3%B9_eccellenti_pittori%2C_scultori%2C_et_architetti_%281648%29_%2814799608033%29.jpg/330px-Delle_vite_de%27_pi%C3%B9_eccellenti_pittori%2C_scultori%2C_et_architetti_%281648%29_%2814799608033%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Piero_della_Francesca",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "botticelli",
+    "name": "Sandro Botticelli",
+    "wikiTitle": "Sandro Botticelli",
+    "periodId": "early-renaissance",
+    "born": 1445,
+    "died": 1510,
+    "significance": "Florentine master of mythological grace — The Birth of Venus and Primavera.",
+    "qid": "Q5669",
+    "description": "Italian Renaissance painter (1445–1510)",
+    "bio": "Alessandro di Mariano di Vanni Filipepi, better known as Sandro Botticelli or simply Botticelli, was an Italian painter of the Early Renaissance. Botticelli's posthumous reputation suffered until the late 19th century, when he was rediscovered by the Pre-Raphaelites who stimulated a reappraisal of his work. Since then, his paintings have been seen to represent the linear grace of late Italian Gothic and some Early Renaissance painting, even though they date from the latter half of the Italian Renaissance period.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/500px-Sandro_Botticelli_083.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/330px-Sandro_Botticelli_083.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "leonardo",
+    "name": "Leonardo da Vinci",
+    "wikiTitle": "Leonardo da Vinci",
+    "periodId": "italian-renaissance",
+    "born": 1452,
+    "died": 1519,
+    "significance": "Archetypal Renaissance polymath; the Mona Lisa and The Last Supper are among the most famous images ever made.",
+    "qid": "Q762",
+    "description": "Italian polymath (1452–1519)",
+    "bio": "Leonardo di ser Piero da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. While his fame initially rested on his achievements as a painter, he has also become known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, astronomy, botany, cartography, painting, and palaeontology. Leonardo is widely regarded as a genius who epitomised the Renaissance humanist ideal, and his collective works contributed to the development of European art to an extent rivalled only by that of his younger contemporary Michelangelo.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/500px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/330px-Francesco_Melzi_-_Portrait_of_Leonardo.png"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "michelangelo",
+    "name": "Michelangelo",
+    "wikiTitle": "Michelangelo",
+    "periodId": "italian-renaissance",
+    "born": 1475,
+    "died": 1564,
+    "significance": "Sculptor, painter, and architect; the Sistine Chapel ceiling redefined what painting could be.",
+    "qid": "Q5592",
+    "description": "Italian artist and architect (1475–1564)",
+    "bio": "Michelangelo di Lodovico Buonarroti Simoni, known mononymously as Michelangelo, was an Italian sculptor, painter, architect, and poet of the High Renaissance. He was born in the Republic of Florence but was mostly active in Rome from his 30s onwards. His work was inspired by models from classical antiquity and had a lasting influence on Western art. Michelangelo's creative abilities and mastery in a range of artistic arenas define him as an archetypal Renaissance man, along with his rival and elder contemporary, Leonardo da Vinci. Given the sheer volume of surviving correspondence, sketches, and reminiscences, Michelangelo is one of the best-documented artists of the 16th century. He was lauded by contemporary biographers as the most accomplished artist of his era.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/500px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/330px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Michelangelo",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "raphael",
+    "name": "Raphael",
+    "wikiTitle": "Raphael",
+    "periodId": "italian-renaissance",
+    "born": 1483,
+    "died": 1520,
+    "significance": "Master of clarity, harmony, and grace; The School of Athens crowns High Renaissance ideals.",
+    "qid": "Q5597",
+    "description": "Italian painter and architect (1483–1520)",
+    "bio": "Raffaello Sanzio da Urbino, now generally known in English as Raphael, was an Italian painter and architect of the High Renaissance. His work is admired for its clarity of form, ease of composition, and visual achievement of the Neoplatonic ideal of human grandeur. Together with Leonardo da Vinci and Michelangelo, he forms the traditional trinity of great masters of that period.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/500px-Raffaello_Sanzio.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/330px-Raffaello_Sanzio.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Raphael",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "titian",
+    "name": "Titian",
+    "wikiTitle": "Titian",
+    "periodId": "italian-renaissance",
+    "born": 1488,
+    "died": 1576,
+    "significance": "Leader of Venetian painting; his command of color shaped centuries of European art.",
+    "qid": "Q47551",
+    "description": "Italian painter (c. 1477/88/90–1576)",
+    "bio": "Tiziano Vecellio, Latinized as Titianus, hence known in English as Titian, was an Italian Renaissance painter. The most important artist of Renaissance Venetian painting, he was born in Pieve di Cadore, near Belluno.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg/500px-Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg/330px-Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Titian",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "van-eyck",
+    "name": "Jan van Eyck",
+    "wikiTitle": "Jan van Eyck",
+    "periodId": "northern-renaissance",
+    "born": 1390,
+    "died": 1441,
+    "significance": "Perfected early oil technique; the Arnolfini Portrait and Ghent Altarpiece set a new bar for realism.",
+    "qid": "Q102272",
+    "description": "Flemish painter (died 1441)",
+    "bio": "Jan van Eyck was an early Netherlandish painter active in Bruges who was one of the early innovators of what became known as early Netherlandish painting, and one of the supreme figures of the Early Northern Renaissance. Such was his legacy, that he has been called \"the inventor of oil-painting\" by Vasari, Ernst Gombrich, and others, although this claim is now considered an oversimplification.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg/500px-Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg/330px-Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jan_van_Eyck",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "durer",
+    "name": "Albrecht Dürer",
+    "wikiTitle": "Albrecht Dürer",
+    "periodId": "northern-renaissance",
+    "born": 1471,
+    "died": 1528,
+    "significance": "Brought Renaissance theory north of the Alps; the greatest printmaker of his age.",
+    "qid": "Q5580",
+    "description": "German artist and theorist (1471–1528)",
+    "bio": "Albrecht Dürer, sometimes spelled in English as Durer or Duerer, was a German painter, printmaker, and theorist of the German Renaissance. Born in Nuremberg, Dürer established his reputation and influence across Europe in his twenties due to his high-quality woodcut prints. He was in contact with the major Italian artists of his time, including Raphael, Giovanni Bellini and Leonardo da Vinci, and from 1512 was patronized by Emperor Maximilian I.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/500px-D%C3%BCrer_Alte_Pinakothek.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/330px-D%C3%BCrer_Alte_Pinakothek.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "bosch",
+    "name": "Hieronymus Bosch",
+    "wikiTitle": "Hieronymus Bosch",
+    "periodId": "northern-renaissance",
+    "born": 1450,
+    "died": 1516,
+    "significance": "Visionary of fantastical moral landscapes — The Garden of Earthly Delights.",
+    "qid": "Q130531",
+    "description": "Dutch painter (c. 1450–1516)",
+    "bio": "Hieronymus Bosch was a Dutch painter from Brabant. He is one of the most notable representatives of the Early Netherlandish painting school. His work, generally oil on oak wood, mainly contains fantastic illustrations of religious concepts and narratives. Within his lifetime, his work was collected in the Netherlands, Austria, and Spain, and widely copied, especially his macabre and nightmarish depictions of hell.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jheronimus_Bosch_%28cropped%29.jpg/500px-Jheronimus_Bosch_%28cropped%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jheronimus_Bosch_%28cropped%29.jpg/330px-Jheronimus_Bosch_%28cropped%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hieronymus_Bosch",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "bruegel",
+    "name": "Pieter Bruegel the Elder",
+    "wikiTitle": "Pieter Bruegel the Elder",
+    "periodId": "northern-renaissance",
+    "born": 1525,
+    "died": 1569,
+    "significance": "Elevated peasant life and landscape into major subjects of painting.",
+    "qid": "Q43270",
+    "description": "Dutch and Flemish painter (c. 1525/30–1569)",
+    "bio": "Pieter Bruegel the Elder was among the most significant artists of Dutch and Flemish Renaissance painting, a painter and printmaker, known for his landscapes and peasant scenes ; he was a pioneer in presenting both types of subject as large paintings.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg/500px-Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg/330px-Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "el-greco",
+    "name": "El Greco",
+    "wikiTitle": "El Greco",
+    "periodId": "mannerism",
+    "born": 1541,
+    "died": 1614,
+    "significance": "Fused Byzantine roots with Venetian color into ecstatic, elongated figures centuries ahead of their time.",
+    "qid": "Q301",
+    "description": "Greek painter of the Spanish Renaissance (1541–1614)",
+    "bio": "Doménikos Theotokópoulos, most widely known as El Greco, was a Greek painter, sculptor and architect of the Spanish Renaissance, regarded as one of the greatest artists of all time. El Greco was a nickname, and the artist normally signed his paintings with his full birth name in Greek letters often adding the word Κρής, which means \"Cretan\" in Ancient Greek.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/500px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/330px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/El_Greco",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "parmigianino",
+    "name": "Parmigianino",
+    "wikiTitle": "Parmigianino",
+    "periodId": "mannerism",
+    "born": 1503,
+    "died": 1540,
+    "significance": "Epitome of Mannerist elegance — Madonna with the Long Neck.",
+    "qid": "Q9348",
+    "description": "Italian Mannerist painter and printmaker (1503–1540)",
+    "bio": "Girolamo Francesco Maria Mazzola, also known as Francesco Mazzola or, more commonly, as Parmigianino, was an Italian Mannerist painter and printmaker active in Florence, Rome, Bologna, and his native city of Parma. His work is characterized by a \"refined sensuality\" and often elongation of forms and includes Vision of Saint Jerome (1527) and the iconic if somewhat anomalous Madonna with the Long Neck (1534), and he remains the best known artist of the first generation whose whole careers fall into the Mannerist period.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parmigianino_Selfportrait.jpg/500px-Parmigianino_Selfportrait.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parmigianino_Selfportrait.jpg/330px-Parmigianino_Selfportrait.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Parmigianino",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "bronzino",
+    "name": "Bronzino",
+    "wikiTitle": "Bronzino",
+    "periodId": "mannerism",
+    "born": 1503,
+    "died": 1572,
+    "significance": "Cold, polished court portraitist of Medici Florence.",
+    "qid": "Q7803",
+    "description": "Italian Mannerist painter (1503–1572)",
+    "bio": "Agnolo di Cosimo, usually known as Bronzino or Agnolo Bronzino, was an Italian Mannerist painter from Florence. His sobriquet, Bronzino, may refer to his relatively dark skin or reddish hair.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg/500px-Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg/330px-Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bronzino",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "caravaggio",
+    "name": "Caravaggio",
+    "wikiTitle": "Caravaggio",
+    "periodId": "baroque",
+    "born": 1571,
+    "died": 1610,
+    "significance": "Revolutionized painting with raw naturalism and theatrical chiaroscuro.",
+    "qid": "Q42207",
+    "description": "Italian painter (1571–1610)",
+    "bio": "Michelangelo Merisi da Caravaggio, known mononymously as Caravaggio, was an Italian painter active in Rome for most of his artistic life. During the final four years of his life, he moved between Naples, Malta, and Sicily. His paintings have been characterized by art critics as combining a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg/500px-Bild-Ottavio_Leoni%2C_Caravaggio.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg/330px-Bild-Ottavio_Leoni%2C_Caravaggio.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Caravaggio",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "rubens",
+    "name": "Peter Paul Rubens",
+    "wikiTitle": "Peter Paul Rubens",
+    "periodId": "baroque",
+    "born": 1577,
+    "died": 1640,
+    "significance": "Engine of the Flemish Baroque; dynamic, sensuous compositions on a grand scale.",
+    "qid": "Q5599",
+    "description": "Flemish artist and diplomat (1577–1640)",
+    "bio": "Sir Peter Paul Rubens was a Flemish artist and diplomat. He is considered the most influential artist of the Flemish Baroque tradition. Rubens's highly charged compositions reference erudite aspects of classical and Christian history. His unique and immensely popular Baroque style emphasised movement, colour, and sensuality, which followed the immediate, dramatic artistic style promoted in the Counter-Reformation. Rubens was a painter producing altarpieces, portraits, landscapes, and history paintings of mythological and allegorical subjects. He was also a prolific designer of cartoons for the Flemish tapestry workshops and of frontispieces for the publishers in Antwerp.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg/500px-Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg/330px-Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "gentileschi",
+    "name": "Artemisia Gentileschi",
+    "wikiTitle": "Artemisia Gentileschi",
+    "periodId": "baroque",
+    "born": 1593,
+    "died": 1656,
+    "significance": "The most accomplished woman painter of the Italian Baroque; her Judith canvases remain startlingly powerful.",
+    "qid": "Q212657",
+    "description": "Italian painter (born 1593)",
+    "bio": "Artemisia Lomi Gentileschi was an Italian Baroque painter. Gentileschi is considered among the most accomplished 17th-century artists, initially working in the style of Caravaggio. She was producing professional work by the age of 15. In an era when women had few opportunities to pursue artistic training or work as professional artists, Gentileschi was the first woman to become a member of the Accademia di Arte del Disegno in Florence and she had an international clientele. Gentileschi worked as an expatriate painter in the court of Charles I of England from 1638 to 1642, but she is thought to have fled the country in the early phases of the English Civil War. Her whereabouts over the following years are unknown, but she resurfaced in Naples during 1649. Her last known letter to one of her mentors was dated to 1650 and it indicates that she was still working as an artist. Her time of death is disputed, but her last known commission was in January 1654.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/500px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/330px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "velazquez",
+    "name": "Diego Velázquez",
+    "wikiTitle": "Diego Velázquez",
+    "periodId": "baroque",
+    "born": 1599,
+    "died": 1660,
+    "significance": "Court painter of Spain; Las Meninas remains painting’s great enigma.",
+    "qid": "Q297",
+    "description": "Spanish painter (1599–1660)",
+    "bio": "Diego Rodríguez de Silva y Velázquez was a Spanish Baroque painter, the leading artist in the court of King Philip IV of Spain and Portugal, and of the Spanish Golden Age. He is generally considered one of the greatest artists in the history of Western art.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg/500px-Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg/330px-Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "rembrandt",
+    "name": "Rembrandt",
+    "wikiTitle": "Rembrandt",
+    "periodId": "baroque",
+    "born": 1606,
+    "died": 1669,
+    "significance": "Supreme Dutch master of light, shadow, and human depth.",
+    "qid": "Q5598",
+    "description": "Dutch painter and printmaker (1606–1669)",
+    "bio": "Rembrandt Harmenszoon van Rijn, known mononymously as Rembrandt, was a Dutch Golden Age painter, printmaker, and draughtsman. He is generally considered one of the greatest visual artists in the history of Western art. It is estimated that Rembrandt's surviving works amount to about three hundred paintings, three hundred etchings, and several hundred drawings.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/500px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/330px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rembrandt",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "vermeer",
+    "name": "Johannes Vermeer",
+    "wikiTitle": "Johannes Vermeer",
+    "periodId": "baroque",
+    "born": 1632,
+    "died": 1675,
+    "significance": "Quiet poet of Delft interiors and daylight; only about three dozen paintings survive.",
+    "qid": "Q41264",
+    "description": "Dutch painter (1632–1675)",
+    "bio": "Johannes Vermeer was a Dutch painter who specialized in domestic interior scenes of middle-class life. He is considered one of the greatest painters of the Dutch Golden Age. During his lifetime, he was a moderately successful provincial genre painter, recognized in Delft and The Hague. He produced relatively few paintings, primarily earning his living as an art dealer. He was not wealthy; at his death, his wife was left in debt.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg/500px-Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg/330px-Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "watteau",
+    "name": "Antoine Watteau",
+    "wikiTitle": "Antoine Watteau",
+    "periodId": "rococo",
+    "born": 1684,
+    "died": 1721,
+    "significance": "Invented the fête galante — theatrical, bittersweet scenes of leisure.",
+    "qid": "Q183221",
+    "description": "French painter (1684–1721)",
+    "bio": "Jean-Antoine Watteau was a French painter and draughtsman whose brief career spurred the revival of interest in colour and movement, as seen in the tradition of Correggio and Rubens. He revitalized the waning Baroque style, shifting it to the less severe, more naturalistic, less formally classical, Rococo. Watteau is credited with inventing the genre of fêtes galantes, scenes of bucolic and idyllic charm, suffused with a theatrical air. Some of his best known subjects were drawn from the world of Italian comedy and ballet.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg/500px-%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg/330px-%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Antoine_Watteau",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "boucher",
+    "name": "François Boucher",
+    "wikiTitle": "François Boucher",
+    "periodId": "rococo",
+    "born": 1703,
+    "died": 1770,
+    "significance": "Defined the decorative exuberance of Louis XV’s France.",
+    "qid": "Q180932",
+    "description": "French painter (1703–1770)",
+    "bio": "François Boucher was a French painter, draughtsman and etcher, who worked in the Rococo style. Boucher is known for his idyllic and voluptuous paintings on classical themes, decorative allegories, and pastoral scenes. He was perhaps the most celebrated painter and decorative artist of the 18th century.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Boucher_par_Gustav_Lundberg_1741.jpg/500px-Boucher_par_Gustav_Lundberg_1741.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Boucher_par_Gustav_Lundberg_1741.jpg/330px-Boucher_par_Gustav_Lundberg_1741.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Boucher",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "fragonard",
+    "name": "Jean-Honoré Fragonard",
+    "wikiTitle": "Jean-Honoré Fragonard",
+    "periodId": "rococo",
+    "born": 1732,
+    "died": 1806,
+    "significance": "Virtuoso of Rococo playfulness — The Swing.",
+    "qid": "Q127171",
+    "description": "French Rococo painter (1732–1806)",
+    "bio": "Jean-Honoré Fragonard was a French painter and printmaker whose late Rococo manner was distinguished by remarkable facility, exuberance, and hedonism. One of the most prolific artists active in the last decades of the Ancien Régime, Fragonard produced more than 550 paintings, of which only five are dated. Among his most popular works are genre paintings conveying an atmosphere of intimacy and veiled eroticism.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jean-Honor%C3%A9_Fragonard_-_Self-portrait_with_smiling_face.jpg/500px-Jean-Honor%C3%A9_Fragonard_-_Self-portrait_with_smiling_face.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jean-Honor%C3%A9_Fragonard_-_Self-portrait_with_smiling_face.jpg/330px-Jean-Honor%C3%A9_Fragonard_-_Self-portrait_with_smiling_face.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jean-Honor%C3%A9_Fragonard",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "david",
+    "name": "Jacques-Louis David",
+    "wikiTitle": "Jacques-Louis David",
+    "periodId": "neoclassicism",
+    "born": 1748,
+    "died": 1825,
+    "significance": "Severe moral classicism that became the visual language of the French Revolution.",
+    "qid": "Q83155",
+    "description": "French painter (1748–1825)",
+    "bio": "Jacques-Louis David was a French painter in the Neoclassical style, considered to be the preeminent painter of the era. In the 1780s, his cerebral brand of history painting marked a change in taste away from Rococo frivolity toward classical austerity, severity, and heightened feeling, which harmonized with the moral climate of the final years of the Ancien Régime.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/David_Self_Portrait.jpg/500px-David_Self_Portrait.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/David_Self_Portrait.jpg/330px-David_Self_Portrait.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jacques-Louis_David",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "ingres",
+    "name": "Jean-Auguste-Dominique Ingres",
+    "wikiTitle": "Jean-Auguste-Dominique Ingres",
+    "periodId": "neoclassicism",
+    "born": 1780,
+    "died": 1867,
+    "significance": "Champion of line against Romantic color; flawless portraits and odalisques.",
+    "qid": "Q23380",
+    "description": "French painter (1780–1867)",
+    "bio": "Jean-Auguste-Dominique Ingres was a French Neoclassical painter. Ingres was profoundly influenced by past artistic traditions and aspired to become the guardian of academic orthodoxy against the ascendant Romantic style. Although he considered himself a painter of history in the tradition of Nicolas Poussin and Jacques-Louis David, it is his portraits, both painted and drawn, that are recognized as his greatest legacy. His expressive distortions of form and space made him an important precursor of modern art, influencing Henri Matisse, Pablo Picasso, and other modernists.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Portrait_de_Jean-Auguste-Dominique_Ingres_%281780-1867%29%2C_peintre._PH10351_%28Cropped%29.jpg/500px-Portrait_de_Jean-Auguste-Dominique_Ingres_%281780-1867%29%2C_peintre._PH10351_%28Cropped%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Portrait_de_Jean-Auguste-Dominique_Ingres_%281780-1867%29%2C_peintre._PH10351_%28Cropped%29.jpg/330px-Portrait_de_Jean-Auguste-Dominique_Ingres_%281780-1867%29%2C_peintre._PH10351_%28Cropped%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jean-Auguste-Dominique_Ingres",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "kauffman",
+    "name": "Angelica Kauffman",
+    "wikiTitle": "Angelica Kauffman",
+    "periodId": "neoclassicism",
+    "born": 1741,
+    "died": 1807,
+    "significance": "Swiss Neoclassical history painter; a founding member of London’s Royal Academy.",
+    "qid": "Q123098",
+    "description": "Swiss artist (1741–1807)",
+    "bio": "Maria Anna Angelika Kauffmann, usually known in English as Angelica Kauffman, was a Swiss painter who had a successful career in London and Rome. Remembered primarily as a history painter, Kauffman was a skilled portraitist, landscape and decoration painter. She was, along with Mary Moser, one of two female painters among the founding members of the Royal Academy of Art in London in 1768.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Portrait_of_Angelica_Kauffman_%281764%29.jpg/500px-Portrait_of_Angelica_Kauffman_%281764%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Portrait_of_Angelica_Kauffman_%281764%29.jpg/330px-Portrait_of_Angelica_Kauffman_%281764%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Angelica_Kauffman",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "goya",
+    "name": "Francisco Goya",
+    "wikiTitle": "Francisco Goya",
+    "periodId": "romanticism",
+    "born": 1746,
+    "died": 1828,
+    "significance": "From court painter to dark visionary; a bridge between the old masters and modernity.",
+    "qid": "Q5432",
+    "description": "Spanish painter and printmaker (1746–1828)",
+    "bio": "Francisco José de Goya y Lucientes was a Spanish romantic painter and printmaker. He is considered the most important Spanish artist of the late 18th and early 19th centuries. His paintings, drawings, and engravings reflected contemporary historical upheavals and influenced important 19th- and 20th-century painters. Goya is often referred to as the last of the Old Masters and the first of the moderns. He is widely regarded as one of the most influential figures in the history of Western art.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg/500px-Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg/330px-Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Francisco_Goya",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "turner",
+    "name": "J. M. W. Turner",
+    "wikiTitle": "J. M. W. Turner",
+    "periodId": "romanticism",
+    "born": 1775,
+    "died": 1851,
+    "significance": "Dissolved landscape into light and storm; a precursor of Impressionism and abstraction.",
+    "qid": "Q159758",
+    "description": "English painter (1775–1851)",
+    "bio": "Joseph Mallord William Turner, known in his time as William Turner, was an English Romantic painter, printmaker and watercolourist. He is known for his expressive colouring, imaginative landscapes and turbulent, often violent marine paintings. His artistic style developed over his lifetime, moving away from Romanticism—bypassing the following rising style of Realism—and, instead, with his later works being a significant precursor of and presaging the later Impressionist and Abstract Art movements that arose in the decades after his death. He left behind more than 550 oil paintings, 2,000 watercolours, and 30,000 works on paper. He was championed by the leading English art critic John Ruskin from 1840, and is today regarded as having elevated landscape painting to an eminence rivalling history painting. In 1969 art historian Kenneth Clark wrote of Turner: \"He was a genius of the first order—far the greatest painter that England has ever produced...\"",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Joseph_Mallord_William_Turner_auto-retrato.jpg/500px-Joseph_Mallord_William_Turner_auto-retrato.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Joseph_Mallord_William_Turner_auto-retrato.jpg/330px-Joseph_Mallord_William_Turner_auto-retrato.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/J._M._W._Turner",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "friedrich",
+    "name": "Caspar David Friedrich",
+    "wikiTitle": "Caspar David Friedrich",
+    "periodId": "romanticism",
+    "born": 1774,
+    "died": 1840,
+    "significance": "German Romantic of solitary figures before sublime nature.",
+    "qid": "Q104884",
+    "description": "German Romantic landscape painter (1774–1840)",
+    "bio": "Caspar David Friedrich was a German Romantic landscape painter, generally considered the most important German artist of his generation, whose often symbolic, and anti-classical work, conveys a subjective, emotional response to the natural world. Friedrich's paintings often set contemplative human figures silhouetted against night skies, morning mists, barren trees or Gothic ruins. Art historian Christopher John Murray described their presence, in diminished perspective, amid expansive landscapes, as reducing the figures to a scale that directs \"the viewer's gaze towards their metaphysical dimension\".",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg/500px-Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg/330px-Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "delacroix",
+    "name": "Eugène Delacroix",
+    "wikiTitle": "Eugène Delacroix",
+    "periodId": "romanticism",
+    "born": 1798,
+    "died": 1863,
+    "significance": "Standard-bearer of French Romanticism — Liberty Leading the People.",
+    "qid": "Q33477",
+    "description": "French painter (1798–1863)",
+    "bio": "Ferdinand Victor Eugène Delacroix was a French Romantic artist who was regarded as the leader of the French Romantic school.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg/500px-F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg/330px-F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "courbet",
+    "name": "Gustave Courbet",
+    "wikiTitle": "Gustave Courbet",
+    "periodId": "realism",
+    "born": 1819,
+    "died": 1877,
+    "significance": "Led the Realist movement, painting ordinary life at the scale once reserved for history.",
+    "qid": "Q34618",
+    "description": "French realist painter (1819–1877)",
+    "bio": "Jean Désiré Gustave Courbet was a French painter who led the Realism movement in 19th-century French painting. Committed to painting only what he could see, he rejected academic convention and the Romanticism of the previous generation of visual artists. His independence set an example that was important to later artists, such as the Impressionists and the Cubists. Courbet occupies an important place in 19th-century French painting as an innovator and as an artist willing to make bold social statements through his work.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gustave_Courbet%2C_photograph_Atelier_Nadar%2C_c._1860s.jpg/500px-Gustave_Courbet%2C_photograph_Atelier_Nadar%2C_c._1860s.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gustave_Courbet%2C_photograph_Atelier_Nadar%2C_c._1860s.jpg/330px-Gustave_Courbet%2C_photograph_Atelier_Nadar%2C_c._1860s.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gustave_Courbet",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "millet",
+    "name": "Jean-François Millet",
+    "wikiTitle": "Jean-François Millet",
+    "periodId": "realism",
+    "born": 1814,
+    "died": 1875,
+    "significance": "Dignified the rural laborer — The Gleaners, The Angelus.",
+    "qid": "Q148458",
+    "description": "French painter (1814–1875)",
+    "bio": "Jean-François Millet was a French painter and one of the founders of the Barbizon school in rural France. Millet is noted for his paintings of peasant farmers and can be categorized as part of the Realism art movement. Toward the end of his career, he became increasingly interested in painting pure landscapes. He is known best for his oil paintings but is also noted for his pastels, Conté crayon drawings, and etchings.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jean-Fran%C3%A7ois_Millet_by_Nadar%2C_Metropolitan_Museum_copy.jpg/500px-Jean-Fran%C3%A7ois_Millet_by_Nadar%2C_Metropolitan_Museum_copy.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jean-Fran%C3%A7ois_Millet_by_Nadar%2C_Metropolitan_Museum_copy.jpg/330px-Jean-Fran%C3%A7ois_Millet_by_Nadar%2C_Metropolitan_Museum_copy.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "daumier",
+    "name": "Honoré Daumier",
+    "wikiTitle": "Honoré Daumier",
+    "periodId": "realism",
+    "born": 1808,
+    "died": 1879,
+    "significance": "Satirist of bourgeois France in lithograph and paint.",
+    "qid": "Q187506",
+    "description": "French artist (1808–1879)",
+    "bio": "Honoré-Victorin Daumier was a French painter, sculptor, and printmaker, whose many works offer commentary on the social and political life in France, from the Revolution of 1830 to the fall of the Second French Empire in 1870. He earned a living producing caricatures and cartoons in newspapers and periodicals such as La Caricature and Le Charivari, for which he became well known in his lifetime and is still remembered today. He was a republican democrat, who satirized and lampooned the monarchy, aristocracy, clergy, politicians, the judiciary, lawyers, police, detectives, the wealthy, the military, the bourgeoisie, as well as his countrymen and human nature in general.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Honor%C3%A9_Daumier_c1850_-_crop.jpg/500px-Honor%C3%A9_Daumier_c1850_-_crop.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Honor%C3%A9_Daumier_c1850_-_crop.jpg/330px-Honor%C3%A9_Daumier_c1850_-_crop.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "monet",
+    "name": "Claude Monet",
+    "wikiTitle": "Claude Monet",
+    "periodId": "impressionism",
+    "born": 1840,
+    "died": 1926,
+    "significance": "Founder of Impressionism; pursued light in series, from haystacks to water lilies.",
+    "qid": "Q296",
+    "description": "French painter (1840–1926)",
+    "bio": "Oscar-Claude Monet was a French painter and founder of Impressionism who is seen as a key precursor to modernism, especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of Impressionism's philosophy of expressing one's perceptions of nature, especially as applied to plein air (outdoor) landscape painting. The term \"Impressionism\" is derived from the title of his painting Impression, Sunrise, which was exhibited in 1874 at the First Impressionist Exhibition, initiated by Monet and a number of like-minded artists as an alternative to the Salon.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/500px-Claude_Monet_1899_Nadar_crop.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/330px-Claude_Monet_1899_Nadar_crop.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Claude_Monet",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "renoir",
+    "name": "Pierre-Auguste Renoir",
+    "wikiTitle": "Pierre-Auguste Renoir",
+    "periodId": "impressionism",
+    "born": 1841,
+    "died": 1919,
+    "significance": "Painter of radiant figures and the pleasures of modern life.",
+    "qid": "Q39931",
+    "description": "French painter and sculptor (1841–1919)",
+    "bio": "Pierre-Auguste Renoir was a leading French Impressionist artist. In his depiction of feminine beauty, Renoir has been described as \"the final representative of a tradition which runs directly from Rubens to Watteau.\"",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pierre_Auguste_Renoir%2C_uncropped_image.jpg/500px-Pierre_Auguste_Renoir%2C_uncropped_image.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pierre_Auguste_Renoir%2C_uncropped_image.jpg/330px-Pierre_Auguste_Renoir%2C_uncropped_image.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "degas",
+    "name": "Edgar Degas",
+    "wikiTitle": "Edgar Degas",
+    "periodId": "impressionism",
+    "born": 1834,
+    "died": 1917,
+    "significance": "Draughtsman of dancers, racecourses, and modern movement.",
+    "qid": "Q46373",
+    "description": "French Impressionist artist (1834–1917)",
+    "bio": "Edgar Degas was a French Impressionist artist famous for his pastel drawings and oil paintings.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Self-portrait_by_Edgar_Degas.jpg/500px-Self-portrait_by_Edgar_Degas.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Self-portrait_by_Edgar_Degas.jpg/330px-Self-portrait_by_Edgar_Degas.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_Degas",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "morisot",
+    "name": "Berthe Morisot",
+    "wikiTitle": "Berthe Morisot",
+    "periodId": "impressionism",
+    "born": 1841,
+    "died": 1895,
+    "significance": "Core member of the Impressionist circle; luminous domestic scenes.",
+    "qid": "Q105320",
+    "description": "French artist (1841–1895)",
+    "bio": "Berthe Marie Pauline Morisot was a French painter, printmaker and a member of the circle of painters in Paris who became known as the Impressionists.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Morisot_berthe_photo.jpg/500px-Morisot_berthe_photo.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Morisot_berthe_photo.jpg/330px-Morisot_berthe_photo.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Berthe_Morisot",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "pissarro",
+    "name": "Camille Pissarro",
+    "wikiTitle": "Camille Pissarro",
+    "periodId": "impressionism",
+    "born": 1830,
+    "died": 1903,
+    "significance": "Patriarch of Impressionism; the only painter shown in all eight Impressionist exhibitions.",
+    "qid": "Q134741",
+    "description": "Danish-French painter (1830–1903)",
+    "bio": "Jacob Abraham Camille Pissarro was a Danish-French Impressionist and Neo-Impressionist painter born on the island of Saint Thomas. His importance resides in his contributions to both Impressionism and Post-Impressionism. Pissarro studied from great forerunners, including Gustave Courbet and Jean-Baptiste-Camille Corot. He later studied and worked alongside Georges Seurat and Paul Signac when he took on the Neo-Impressionist style at the age of 54.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pissarro-portrait.jpg/500px-Pissarro-portrait.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pissarro-portrait.jpg/330px-Pissarro-portrait.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Camille_Pissarro",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "cassatt",
+    "name": "Mary Cassatt",
+    "wikiTitle": "Mary Cassatt",
+    "periodId": "impressionism",
+    "born": 1844,
+    "died": 1926,
+    "significance": "American in Paris; modern, unsentimental images of women and children.",
+    "qid": "Q173223",
+    "description": "American painter and printmaker (1844–1926)",
+    "bio": "Mary Stevenson Cassatt was an American painter and printmaker. She was born in Allegheny, Pennsylvania, but lived most of her adult life in France, where she befriended Edgar Degas and exhibited with the Impressionists. Cassatt often created images of the social and private lives of women, with particular emphasis on the intimate bonds between mothers and children.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mary_Cassatt_photograph_1913.jpg/500px-Mary_Cassatt_photograph_1913.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mary_Cassatt_photograph_1913.jpg/330px-Mary_Cassatt_photograph_1913.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mary_Cassatt",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "van-gogh",
+    "name": "Vincent van Gogh",
+    "wikiTitle": "Vincent van Gogh",
+    "periodId": "post-impressionism",
+    "born": 1853,
+    "died": 1890,
+    "significance": "Expressive color and impasto that changed painting; his famous works were made in a single final decade.",
+    "qid": "Q5582",
+    "description": "Dutch painter (1853–1890)",
+    "bio": "Vincent Willem van Gogh was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art. In just over a decade he created about 2,100 artworks, including around 860 oil paintings, most of them in the last two years of his life. They include landscapes, still lifes, portraits and self-portraits, and are characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. His suicide at 37 followed years of mental illness and poverty.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/500px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/330px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "cezanne",
+    "name": "Paul Cézanne",
+    "wikiTitle": "Paul Cézanne",
+    "periodId": "post-impressionism",
+    "born": 1839,
+    "died": 1906,
+    "significance": "Rebuilt nature from planes of color; a foundation for Cubism and modern art.",
+    "qid": "Q35548",
+    "description": "French painter (1839–1906)",
+    "bio": "Paul Cézanne was a French Post-Impressionist painter whose work introduced new modes of representation, influenced avant-garde artistic movements of the early 20th century and formed the bridge between late 19th-century Impressionism and early 20th-century Cubism.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Paul-Cezanne.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Paul-Cezanne.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "gauguin",
+    "name": "Paul Gauguin",
+    "wikiTitle": "Paul Gauguin",
+    "periodId": "post-impressionism",
+    "born": 1848,
+    "died": 1903,
+    "significance": "Symbolist color and Tahitian subjects that pushed painting beyond naturalism.",
+    "qid": "Q37693",
+    "description": "French artist (1848–1903)",
+    "bio": "Eugène Henri Paul Gauguin was a French painter, sculptor, printmaker, ceramist, and writer, whose work has been primarily associated with the Post-Impressionist and Symbolist movements. He was also an influential practitioner of wood engraving and woodcuts as art forms. While only moderately successful during his lifetime, Gauguin has since been recognized for his experimental use of color and Synthetist style that were distinct from Impressionism.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Paul_Gauguin_1891.png/500px-Paul_Gauguin_1891.png",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Paul_Gauguin_1891.png/330px-Paul_Gauguin_1891.png"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "seurat",
+    "name": "Georges Seurat",
+    "wikiTitle": "Georges Seurat",
+    "periodId": "post-impressionism",
+    "born": 1859,
+    "died": 1891,
+    "significance": "Invented pointillism — A Sunday Afternoon on the Island of La Grande Jatte.",
+    "qid": "Q34013",
+    "description": "French painter (1859–1891)",
+    "bio": "Georges Pierre Seurat was a French post-Impressionist artist. He devised the painting techniques known as chromoluminarism and pointillism and used conté crayon for drawings on paper with a rough surface.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Georges_Seurat_1888.jpg/500px-Georges_Seurat_1888.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Georges_Seurat_1888.jpg/330px-Georges_Seurat_1888.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "toulouse-lautrec",
+    "name": "Henri de Toulouse-Lautrec",
+    "wikiTitle": "Henri de Toulouse-Lautrec",
+    "periodId": "post-impressionism",
+    "born": 1864,
+    "died": 1901,
+    "significance": "Chronicler of Montmartre nightlife; elevated the poster to art.",
+    "qid": "Q82445",
+    "description": "French painter and illustrator (1864–1901)",
+    "bio": "Comte Henri Marie Raymond de Toulouse-Lautrec-Montfa, known as Toulouse-Lautrec, was a French painter, printmaker, draughtsman, caricaturist, and illustrator. His immersion in the colourful and theatrical life of Paris' Belle Époque in the late 19th century allowed him to produce popular works of art from decadent affairs.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Photolautrec.jpg/500px-Photolautrec.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Photolautrec.jpg/330px-Photolautrec.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "moreau",
+    "name": "Gustave Moreau",
+    "wikiTitle": "Gustave Moreau",
+    "periodId": "symbolism",
+    "born": 1826,
+    "died": 1898,
+    "significance": "Jeweled mythologies that fed the Symbolist imagination.",
+    "qid": "Q203828",
+    "description": "French Symbolist painter (1826–1898)",
+    "bio": "Gustave Moreau was a French artist and an important figure in the Symbolist movement. Jean Cassou called him \"the Symbolist painter par excellence\". He was an influential forerunner of symbolism in the visual arts in the 1860s, and at the height of the symbolist movement in the 1890s, he was among the most significant painters. Art historian Robert Delevoy wrote that Moreau \"brought symbolist polyvalence to its highest point in Jupiter and Semele.\" He was a prolific artist who produced over 15,000 paintings, watercolors, and drawings. Moreau painted allegories and traditional biblical and mythological subjects favored by the fine art academies. J. K. Huysmans wrote, \"Gustave Moreau has given new freshness to dreary old subjects by a talent both subtle and ample: he has taken myths worn out by the repetitions of centuries and expressed them in a language that is persuasive and lofty, mysterious and new.\" The female characters from the Bible and mythology that he so frequently depicted came to be regarded by many as the archetypical symbolist woman. His art fell from favor and received little attention in the early 20th century but, beginning in the 1960s and 70s, he has come to be considered among the most paramount of symbolist painters.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/GustaveMoreau02.jpg/500px-GustaveMoreau02.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/GustaveMoreau02.jpg/330px-GustaveMoreau02.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gustave_Moreau",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "redon",
+    "name": "Odilon Redon",
+    "wikiTitle": "Odilon Redon",
+    "periodId": "symbolism",
+    "born": 1840,
+    "died": 1916,
+    "significance": "Visionary charcoal noirs and radiant late pastels of dream subjects.",
+    "qid": "Q154349",
+    "description": "French painter (1840–1916)",
+    "bio": "Odilon Redon was a French Symbolist draftsman, printmaker, and painter.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Odilon_Redon_vers_1880.jpg/500px-Odilon_Redon_vers_1880.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Odilon_Redon_vers_1880.jpg/330px-Odilon_Redon_vers_1880.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Odilon_Redon",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "bocklin",
+    "name": "Arnold Böcklin",
+    "wikiTitle": "Arnold Böcklin",
+    "periodId": "symbolism",
+    "born": 1827,
+    "died": 1901,
+    "significance": "Isle of the Dead — mythic landscapes of mortality.",
+    "qid": "Q123071",
+    "description": "Swiss Symbolist painter (1827–1901)",
+    "bio": "Arnold Böcklin was a Swiss Symbolist painter. His five versions of the Isle of the Dead inspired works by several late Romantic composers.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Arnold_B%C3%B6cklin_%281827_-_1901%29%2C_Selbstportrait_%281873%29.jpg/500px-Arnold_B%C3%B6cklin_%281827_-_1901%29%2C_Selbstportrait_%281873%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Arnold_B%C3%B6cklin_%281827_-_1901%29%2C_Selbstportrait_%281873%29.jpg/330px-Arnold_B%C3%B6cklin_%281827_-_1901%29%2C_Selbstportrait_%281873%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Arnold_B%C3%B6cklin",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "munch",
+    "name": "Edvard Munch",
+    "wikiTitle": "Edvard Munch",
+    "periodId": "expressionism",
+    "born": 1863,
+    "died": 1944,
+    "significance": "The Scream; anxiety and memory made into modern subject matter.",
+    "qid": "Q41406",
+    "description": "Norwegian painter (1863–1944)",
+    "bio": "Edvard Munch was a Norwegian painter. His 1893 work The Scream has become one of the most iconic and acclaimed images in all of Western art.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Portrait_of_Edvard_Munch_%28cropped%29.png/500px-Portrait_of_Edvard_Munch_%28cropped%29.png",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Portrait_of_Edvard_Munch_%28cropped%29.png/330px-Portrait_of_Edvard_Munch_%28cropped%29.png"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edvard_Munch",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "schiele",
+    "name": "Egon Schiele",
+    "wikiTitle": "Egon Schiele",
+    "periodId": "expressionism",
+    "born": 1890,
+    "died": 1918,
+    "significance": "Raw, contorted figures; Klimt’s protégé, dead at twenty-eight.",
+    "qid": "Q44032",
+    "description": "Austrian painter (1890–1918)",
+    "bio": "Egon Leo Adolf Ludwig Schiele was an Austrian Expressionist painter. His work is noted for its intensity and its raw sexuality, and for the many self-portraits the artist produced, including nude self-portraits. The twisted body shapes and the expressive line that characterise Schiele's paintings and drawings mark the artist as an early exponent of Expressionism. Gustav Klimt, a figurative painter of the early 20th century, was a mentor to Schiele.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg/500px-Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg/330px-Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Egon_Schiele",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "kirchner",
+    "name": "Ernst Ludwig Kirchner",
+    "wikiTitle": "Ernst Ludwig Kirchner",
+    "periodId": "expressionism",
+    "born": 1880,
+    "died": 1938,
+    "significance": "Founder of Die Brücke; jagged street scenes of Berlin.",
+    "qid": "Q229272",
+    "description": "German expressionist painter (1880–1938)",
+    "bio": "Ernst Ludwig Kirchner was a German expressionist painter and printmaker. He was one of the founders of the artists group Die Brücke or \"The Bridge\", a key group leading to the foundation of Expressionism in 20th-century art. Kirchner volunteered for army service in the First World War, but soon suffered a breakdown and was discharged. His work was branded as \"degenerate\" by the Nazis in 1933, and in 1937 more than 600 of his works were sold or destroyed.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ernst_Ludwig_Kirchner_-_Selbstportr%C3%A4t_in_der_Atelierwohnung_in_Berlin-Friedenau_%281913-15%29.jpg/500px-Ernst_Ludwig_Kirchner_-_Selbstportr%C3%A4t_in_der_Atelierwohnung_in_Berlin-Friedenau_%281913-15%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ernst_Ludwig_Kirchner_-_Selbstportr%C3%A4t_in_der_Atelierwohnung_in_Berlin-Friedenau_%281913-15%29.jpg/330px-Ernst_Ludwig_Kirchner_-_Selbstportr%C3%A4t_in_der_Atelierwohnung_in_Berlin-Friedenau_%281913-15%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ernst_Ludwig_Kirchner",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "kandinsky",
+    "name": "Wassily Kandinsky",
+    "wikiTitle": "Wassily Kandinsky",
+    "periodId": "expressionism",
+    "born": 1866,
+    "died": 1944,
+    "significance": "Pioneer of abstract painting; sought a music of pure color and form.",
+    "qid": "Q61064",
+    "description": "Russian painter and art theorist (1866–1944)",
+    "bio": "Wassily Wassilyevich Kandinsky was a Russian painter and art theorist active in Germany during the late Belle Époque and Interwar eras. Kandinsky is generally credited as one of the pioneers of abstraction in Western art. Born in Moscow, he began painting studies at the age of 30.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg/500px-Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg/330px-Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Wassily_Kandinsky",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "picasso",
+    "name": "Pablo Picasso",
+    "wikiTitle": "Pablo Picasso",
+    "periodId": "cubism",
+    "born": 1881,
+    "died": 1973,
+    "significance": "Co-founder of Cubism and the most protean artist of the twentieth century.",
+    "qid": "Q5593",
+    "description": "Spanish painter and sculptor (1881–1973)",
+    "bio": "Pablo Ruiz Picasso was a Spanish painter and sculptor who spent most of his adult life in France. One of the most influential artists of the 20th century, he is known for co-founding the Cubist movement, the invention of constructed sculpture, the co-invention of collage, and for the wide variety of styles that he helped develop and explore. Among his most famous works are the proto-Cubist Les Demoiselles d'Avignon (1907) and the anti-war painting Guernica (1937), a dramatic portrayal of the bombing of Guernica by German and Italian air forces during the Spanish Civil War. His career spanned more than 76 years, from his late teens to his death in 1973.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/500px-Pablo_picasso_1.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/330px-Pablo_picasso_1.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "braque",
+    "name": "Georges Braque",
+    "wikiTitle": "Georges Braque",
+    "periodId": "cubism",
+    "born": 1882,
+    "died": 1963,
+    "significance": "Co-invented Cubism with Picasso; a lifelong investigation of still life.",
+    "qid": "Q153793",
+    "description": "French painter and sculptor (1882–1963)",
+    "bio": "Georges Braque was a major 20th-century French painter, collagist, draughtsman, printmaker and sculptor. His most notable contributions were in his alliance with Fauvism from 1905, and the role he played in the development of Cubism. Braque's work between 1908 and 1912 is closely associated with that of his colleague Pablo Picasso. Their respective Cubist works were indistinguishable for many years, yet the quiet nature of Braque was partially eclipsed by the fame and notoriety of Picasso.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Georges_Braque%2C_1908%2C_photograph_published_in_Gelett_Burgess%2C_The_Wild_Men_of_Paris%2C_Architectural_Record%2C_May_1910.jpg/500px-Georges_Braque%2C_1908%2C_photograph_published_in_Gelett_Burgess%2C_The_Wild_Men_of_Paris%2C_Architectural_Record%2C_May_1910.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Georges_Braque%2C_1908%2C_photograph_published_in_Gelett_Burgess%2C_The_Wild_Men_of_Paris%2C_Architectural_Record%2C_May_1910.jpg/330px-Georges_Braque%2C_1908%2C_photograph_published_in_Gelett_Burgess%2C_The_Wild_Men_of_Paris%2C_Architectural_Record%2C_May_1910.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Georges_Braque",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "gris",
+    "name": "Juan Gris",
+    "wikiTitle": "Juan Gris",
+    "periodId": "cubism",
+    "born": 1887,
+    "died": 1927,
+    "significance": "Clarified Cubism into crystalline, designed harmony.",
+    "qid": "Q151152",
+    "description": "Spanish artist (1887–1927)",
+    "bio": "José Victoriano González-Pérez , better known as Juan Gris, was a Spanish painter born in Madrid who lived and worked in France for most of his active period. Closely connected to the innovative artistic genre Cubism, his works are among the movement's most distinctive.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Juan_Gris%2C_1922%2C_photograph_by_Man_Ray%2C_Paris._Gelatin_silver_print.jpg/500px-Juan_Gris%2C_1922%2C_photograph_by_Man_Ray%2C_Paris._Gelatin_silver_print.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Juan_Gris%2C_1922%2C_photograph_by_Man_Ray%2C_Paris._Gelatin_silver_print.jpg/330px-Juan_Gris%2C_1922%2C_photograph_by_Man_Ray%2C_Paris._Gelatin_silver_print.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Juan_Gris",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "dali",
+    "name": "Salvador Dalí",
+    "wikiTitle": "Salvador Dalí",
+    "periodId": "surrealism",
+    "born": 1904,
+    "died": 1989,
+    "significance": "Hand-painted dream photographs — The Persistence of Memory.",
+    "qid": "Q5577",
+    "description": "Spanish surrealist artist (1904–1989)",
+    "bio": "Salvador Domingo Felipe Jacinto Dalí i Domènech, Marquess of Dalí de Púbol, known as Salvador Dalí, was a Spanish surrealist artist renowned for his technical skill, precise draftsmanship, and the striking and bizarre images in his work.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Salvador_Dal%C3%AD_1939.jpg/500px-Salvador_Dal%C3%AD_1939.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Salvador_Dal%C3%AD_1939.jpg/330px-Salvador_Dal%C3%AD_1939.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "magritte",
+    "name": "René Magritte",
+    "wikiTitle": "René Magritte",
+    "periodId": "surrealism",
+    "born": 1898,
+    "died": 1967,
+    "significance": "Deadpan paradoxes that question images themselves.",
+    "qid": "Q7836",
+    "description": "Belgian painter (1898–1967)",
+    "bio": "René François Ghislain Magritte was a Belgian surrealist artist known for his depictions of familiar objects in unfamiliar, unexpected contexts, which often provoked questions about the nature and boundaries of reality and representation. His imagery has influenced pop art, minimalist art, and conceptual art.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Portrait_en_buste_du_peintre_surr%C3%A9aliste_Ren%C3%A9_Magritte_%281898-1967%29_le_18_octobre_1961_devant_une_de_ses_toiles%2C_PH19994.jpg/500px-Portrait_en_buste_du_peintre_surr%C3%A9aliste_Ren%C3%A9_Magritte_%281898-1967%29_le_18_octobre_1961_devant_une_de_ses_toiles%2C_PH19994.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Portrait_en_buste_du_peintre_surr%C3%A9aliste_Ren%C3%A9_Magritte_%281898-1967%29_le_18_octobre_1961_devant_une_de_ses_toiles%2C_PH19994.jpg/330px-Portrait_en_buste_du_peintre_surr%C3%A9aliste_Ren%C3%A9_Magritte_%281898-1967%29_le_18_octobre_1961_devant_une_de_ses_toiles%2C_PH19994.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "ernst",
+    "name": "Max Ernst",
+    "wikiTitle": "Max Ernst",
+    "periodId": "surrealism",
+    "born": 1891,
+    "died": 1976,
+    "significance": "Restless inventor of collage, frottage, and Surrealist technique.",
+    "qid": "Q154842",
+    "description": "German artist (1891–1976)",
+    "bio": "Max Ernst was a German-born painter, sculptor, printmaker, graphic artist, and poet. A prolific artist, Ernst was a primary pioneer of the Dada movement and surrealism in Europe. He had no formal artistic training, but his experimental attitude toward the making of art resulted in his invention of frottage—a technique that uses pencil rubbings of textured objects and relief surfaces to create images—and grattage, an analogous technique in which paint is scraped across canvas to reveal the imprints of the objects placed beneath. Ernst is noted for his unconventional drawing methods as well as for creating novels and pamphlets using the method of collages. He served as a soldier for four years during World War I, which left him shocked, traumatised and critical of the modern world. During World War II he was designated an \"undesirable foreigner\" while living in France.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Max_Ernst_1968.jpg/500px-Max_Ernst_1968.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Max_Ernst_1968.jpg/330px-Max_Ernst_1968.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Max_Ernst",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "carrington",
+    "name": "Leonora Carrington",
+    "wikiTitle": "Leonora Carrington",
+    "periodId": "surrealism",
+    "born": 1917,
+    "died": 2011,
+    "significance": "British-Mexican Surrealist of alchemical, feminist mythologies.",
+    "qid": "Q233207",
+    "description": "British and Mexican artist, surrealist painter and novelist (1917–2011)",
+    "bio": "Mary Leonora Carrington was a British and Mexican surrealist painter and novelist. She lived most of her adult life in Mexico City and was one of the last surviving participants in the Surrealist movement of the 1930s. Carrington was also a founding member of the women's liberation movement in Mexico during the 1970s.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a5/Leonora_Carrington.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/en/a/a5/Leonora_Carrington.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Leonora_Carrington",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "varo",
+    "name": "Remedios Varo",
+    "wikiTitle": "Remedios Varo",
+    "periodId": "surrealism",
+    "born": 1908,
+    "died": 1963,
+    "significance": "Spanish-Mexican painter of meticulous mystical machines.",
+    "qid": "Q235275",
+    "description": "Spanish Catalan artist (1908–1963)",
+    "bio": "María de los Remedios Alicia Rodriga Varo y Uranga was a Spanish surrealist painter, writer, and graphic artist. Her work features Surrealist worlds, where science, mysticism, and magic mix together.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/58/Photo_of_Remedios_Varo.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/en/5/58/Photo_of_Remedios_Varo.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Remedios_Varo",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "pollock",
+    "name": "Jackson Pollock",
+    "wikiTitle": "Jackson Pollock",
+    "periodId": "abstract-expressionism",
+    "born": 1912,
+    "died": 1956,
+    "significance": "Drip paintings that put American art at the center of the avant-garde.",
+    "qid": "Q37571",
+    "description": "American painter (1912–1956)",
+    "bio": "Paul Jackson Pollock was an American painter. A major figure in the abstract expressionist movement, he was widely noticed for his \"drip technique\" of pouring or splashing liquid household paint onto a horizontal surface, enabling him to view and paint his canvases from all angles. It was called all-over painting and action painting, because Pollock covered the entire canvas and used the force of his whole body to paint, often in a frenetic dancing style. This extreme form of abstraction divided critics: some praised the immediacy of the creation, while others derided the random effects.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jackson_Pollock%27s_passport_%28cropped%29.jpg/500px-Jackson_Pollock%27s_passport_%28cropped%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jackson_Pollock%27s_passport_%28cropped%29.jpg/330px-Jackson_Pollock%27s_passport_%28cropped%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jackson_Pollock",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "rothko",
+    "name": "Mark Rothko",
+    "wikiTitle": "Mark Rothko",
+    "periodId": "abstract-expressionism",
+    "born": 1903,
+    "died": 1970,
+    "significance": "Floating fields of color meant to overwhelm and console.",
+    "qid": "Q160149",
+    "description": "Abstract painter (1903–1970)",
+    "bio": "Mark Rothko was a Latvian-born American abstract painter. He is best known for his color field paintings that depicted irregular and painterly rectangular regions of color, which he produced from 1949 to 1970. Although Rothko did not personally subscribe to any one school, he is associated with the American abstract expressionism movement of modern art.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Consuelo_Kanaga%2C_Mark_Rothko%2C_Yorktown_Heights%2C_ca._1949.jpg/500px-Consuelo_Kanaga%2C_Mark_Rothko%2C_Yorktown_Heights%2C_ca._1949.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Consuelo_Kanaga%2C_Mark_Rothko%2C_Yorktown_Heights%2C_ca._1949.jpg/330px-Consuelo_Kanaga%2C_Mark_Rothko%2C_Yorktown_Heights%2C_ca._1949.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mark_Rothko",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "de-kooning",
+    "name": "Willem de Kooning",
+    "wikiTitle": "Willem de Kooning",
+    "periodId": "abstract-expressionism",
+    "born": 1904,
+    "died": 1997,
+    "significance": "Gestural figuration — the Woman series — at the heart of action painting.",
+    "qid": "Q132305",
+    "description": "Dutch-American abstract expressionist artist (1904–1997)",
+    "bio": "Willem de Kooning was a Dutch-American abstract expressionist artist. Born in Rotterdam, in the Netherlands, he moved to the United States in 1926, becoming a U.S. citizen in 1962. In 1943, he married painter Elaine Fried.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Willem_de_Kooning_in_his_studio.jpg/500px-Willem_de_Kooning_in_his_studio.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Willem_de_Kooning_in_his_studio.jpg/330px-Willem_de_Kooning_in_his_studio.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Willem_de_Kooning",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "krasner",
+    "name": "Lee Krasner",
+    "wikiTitle": "Lee Krasner",
+    "periodId": "abstract-expressionism",
+    "born": 1908,
+    "died": 1984,
+    "significance": "Rigorous abstractionist; a founding Abstract Expressionist long overshadowed by Pollock.",
+    "qid": "Q237959",
+    "description": "American abstract expressionist painter (1908–1984)",
+    "bio": "Lenore \"Lee\" Krasner was an American painter and visual artist active primarily in New York whose work has been associated with the Abstract Expressionist movement.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lee_Krasner%2C_artist%2C_cropped.jpg/500px-Lee_Krasner%2C_artist%2C_cropped.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lee_Krasner%2C_artist%2C_cropped.jpg/330px-Lee_Krasner%2C_artist%2C_cropped.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Lee_Krasner",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "warhol",
+    "name": "Andy Warhol",
+    "wikiTitle": "Andy Warhol",
+    "periodId": "pop-art",
+    "born": 1928,
+    "died": 1987,
+    "significance": "Soup cans, Marilyns, and the Factory; art in the age of mass media.",
+    "qid": "Q5603",
+    "description": "American artist and filmmaker (1928–1987)",
+    "bio": "Andy Warhol was an American artist and filmmaker. Widely regarded as the most important artist of the second half of the 20th century, Warhol's practice spanned various media, including painting, filmmaking, photography, publishing, and performance art. A leading figure in the Pop art movement, his work explores the relationship between advertising, consumerism, mass media, and celebrity culture. His embrace of mechanical reproduction challenged traditional boundaries between high and low culture. He is also credited with popularizing the expression \"15 minutes of fame.\"",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Andy_Warhol_at_the_Jewish_Museum_%28by_Bernard_Gotfryd%29_%E2%80%93_LOC.jpg/500px-Andy_Warhol_at_the_Jewish_Museum_%28by_Bernard_Gotfryd%29_%E2%80%93_LOC.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Andy_Warhol_at_the_Jewish_Museum_%28by_Bernard_Gotfryd%29_%E2%80%93_LOC.jpg/330px-Andy_Warhol_at_the_Jewish_Museum_%28by_Bernard_Gotfryd%29_%E2%80%93_LOC.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Andy_Warhol",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "lichtenstein",
+    "name": "Roy Lichtenstein",
+    "wikiTitle": "Roy Lichtenstein",
+    "periodId": "pop-art",
+    "born": 1923,
+    "died": 1997,
+    "significance": "Comic-strip Ben-Day dots scaled to museum walls.",
+    "qid": "Q151679",
+    "description": "American pop artist (1923–1997)",
+    "bio": "Roy Fox Lichtenstein was an American artist. A leading figure of the Pop Art movement, he is best known for his large-scale paintings inspired by comic books, advertisements, and mass-produced imagery. Lichtenstein's art is represented in major museum collections worldwide, and he remains one of the most influential and recognizable artists of the 20th century.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Roy_Lichtenstein%2C_painter_1969_%28cropped%29.jpg/500px-Roy_Lichtenstein%2C_painter_1969_%28cropped%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Roy_Lichtenstein%2C_painter_1969_%28cropped%29.jpg/330px-Roy_Lichtenstein%2C_painter_1969_%28cropped%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Roy_Lichtenstein",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "hamilton",
+    "name": "Richard Hamilton",
+    "wikiTitle": "Richard Hamilton (artist)",
+    "periodId": "pop-art",
+    "born": 1922,
+    "died": 2011,
+    "significance": "British pioneer of Pop; his 1956 collage is often called the first work of Pop art.",
+    "qid": "Q159465",
+    "description": "English painter and collage artist (1922–2011)",
+    "bio": "Richard William Hamilton was an English painter and collage artist. His 1955 exhibition Man, Machine and Motion and his 1956 collage Just what is it that makes today's homes so different, so appealing?, produced for the This Is Tomorrow exhibition of the Independent Group in London, are considered by critics and historians to be among the earliest works of pop art. A major retrospective of his work was at Tate Modern in 2014.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Richard_Hamilton_Artist.jpg/500px-Richard_Hamilton_Artist.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Richard_Hamilton_Artist.jpg/330px-Richard_Hamilton_Artist.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Hamilton_(artist)",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "rosenquist",
+    "name": "James Rosenquist",
+    "wikiTitle": "James Rosenquist",
+    "periodId": "pop-art",
+    "born": 1933,
+    "died": 2017,
+    "significance": "Billboard-scale fragments of American consumer life.",
+    "qid": "Q448845",
+    "description": "American painter (1933–2017)",
+    "bio": "James Albert Rosenquist was an American artist and one of the proponents of the pop art movement. Drawing from his background working in sign painting, Rosenquist's pieces often explored the role of advertising and consumer culture in art and society, utilizing techniques he learned making commercial art to depict popular cultural icons and mundane everyday objects. While his works have often been compared to those from other key figures of the pop art movement, such as Andy Warhol and Roy Lichtenstein, Rosenquist's pieces were unique in the way that they often employed elements of surrealism using fragments of advertisements and cultural imagery to emphasize the overwhelming nature of ads. He was a 2001 inductee into the Florida Artists Hall of Fame.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/James_rosenquist1.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/87/James_rosenquist1.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/James_Rosenquist",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "kusama",
+    "name": "Yayoi Kusama",
+    "wikiTitle": "Yayoi Kusama",
+    "periodId": "contemporary",
+    "born": 1929,
+    "died": null,
+    "significance": "Polka dots and Infinity Mirror Rooms; among the most visited artists alive.",
+    "qid": "Q231121",
+    "description": "Japanese artist and writer (born 1929)",
+    "bio": "Yayoi Kusama  is a Japanese contemporary artist who works primarily in sculpture and installation. She is also active in painting, performance, video art, fashion, poetry, fiction, and other arts. Her work is based in conceptual art and shows some attributes of feminism, minimalism, surrealism, art brut, pop art, and abstract expressionism, and is infused with autobiographical, psychological, and sexual content. She has been acknowledged as one of the most important artists to come out of Japan, the world's top-selling female artist, and the world's most successful living artist. Her work influenced that of her contemporaries, including Andy Warhol and Claes Oldenburg.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Yayoi_Kusama_wax_model_at_Louis_Vitton.jpg/500px-Yayoi_Kusama_wax_model_at_Louis_Vitton.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Yayoi_Kusama_wax_model_at_Louis_Vitton.jpg/330px-Yayoi_Kusama_wax_model_at_Louis_Vitton.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Yayoi_Kusama",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "richter",
+    "name": "Gerhard Richter",
+    "wikiTitle": "Gerhard Richter",
+    "periodId": "contemporary",
+    "born": 1932,
+    "died": null,
+    "significance": "Moves between photorealism and squeegee abstraction; postwar Germany’s leading painter.",
+    "qid": "Q164351",
+    "description": "German visual artist (born 1932)",
+    "bio": "Gerhard Richter is a German visual artist. Richter has produced abstract as well as photorealistic paintings, photographs and glass pieces. He is widely regarded as one of the most important contemporary German artists and several of his works have set record prices at auction, with him being the most expensive living painter at one time.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gerhard_Richter%2C_Prague_%282017%29.jpg/500px-Gerhard_Richter%2C_Prague_%282017%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gerhard_Richter%2C_Prague_%282017%29.jpg/330px-Gerhard_Richter%2C_Prague_%282017%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gerhard_Richter",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "ai-weiwei",
+    "name": "Ai Weiwei",
+    "wikiTitle": "Ai Weiwei",
+    "periodId": "contemporary",
+    "born": 1957,
+    "died": null,
+    "significance": "Conceptual artist and activist; Sunflower Seeds at Tate Modern.",
+    "qid": "Q160115",
+    "description": "Chinese conceptual artist and dissident (born 1957)",
+    "bio": "Ai Weiwei is a Chinese contemporary artist, documentarian and activist. Ai grew up in the far northwest of China, where he lived under harsh conditions due to his father's exile. As an activist, he has been openly critical of the Chinese government and its stance on democracy and human rights. He investigated government corruption and cover-ups, in particular the Sichuan schools corruption scandal following the collapse of \"tofu-dreg schools\" in the 2008 Sichuan earthquake. In April 2011, Ai Weiwei was arrested at Beijing Capital International Airport for \"economic crimes\", and detained for 81 days without charge. Ai Weiwei emerged as a figure in Chinese cultural development, an architect of Chinese modernism, and a prominent political commentator.",
+    "portrait": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aj_Wej-wej_I_%282017%29.jpg/500px-Aj_Wej-wej_I_%282017%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aj_Wej-wej_I_%282017%29.jpg/330px-Aj_Wej-wej_I_%282017%29.jpg"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ai_Weiwei",
+    "attribution": "Text adapted from Wikipedia, CC BY-SA 4.0"
+  }
+]
